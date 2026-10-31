@@ -2,3 +2,4 @@ evidence/originals/
 evidence/pdf/
 evidence/Evidence-preview-part*.html
 evidence/*.zip
+.claude/settings.local.json
